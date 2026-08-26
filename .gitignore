@@ -1,0 +1,17 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# редакторы
+.vscode/
+.idea/
+*.code-workspace
+
+# временное
+*.tmp
+*.bak
+*~
