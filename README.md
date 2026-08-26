@@ -2,7 +2,7 @@
 
 Одностраничное онлайн-резюме. Partner &amp; Payment Operations, iGaming / fintech.
 
-**Открыть:** https://USERNAME.github.io/REPO/
+**Открыть:** https://chertopologov.github.io/mycv/
 
 ## Как устроено
 
